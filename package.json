@@ -1,0 +1,19 @@
+{
+  "name": "careaxiom",
+  "version": "1.0.0",
+  "description": "careaxiom coding test task - read title of the given url and generate an html response",
+  "main": "http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node http.js"
+  },
+  "author": "arslan ishrat",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "http": "^0.0.1-security",
+    "q": "^1.5.1",
+    "request": "^2.88.2",
+    "url": "^0.11.0"
+  }
+}
